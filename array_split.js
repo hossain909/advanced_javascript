@@ -16,4 +16,5 @@ for(let i = 0; i < myName.length; i++){
   newName.push(letter);
 
 }
-console.log(newName.reverse().toString().replace(/,/g," "));
+// console.log(newName.reverse().toString().replace(/,/g," "));
+//console.log(newName.reverse().join(""))
